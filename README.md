@@ -6,7 +6,7 @@ Backup save creator for Thronebreaker - The Witcher Tales
 By mikeInside 20181104  
 ------------------  
 Put ThronebreakerSave.ahk in the same directory as you installed Thronebreaker, (the one containing Thronebreaker.exe)  
-If you don't have AutoHotKey installed, use ThronebreakerSave.exe instead of ThronebreakerSave.ahk
+If you don't have AutoHotKey installed, use ThronebreakerSave.exe instead of ThronebreakerSave.ahk  
 When you run ThronebreakerSave it will automatically open the game if it is not currently running  
 By default it will temporarily rename the intro video files so that they will be skipped
 
